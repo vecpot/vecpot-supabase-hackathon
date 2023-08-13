@@ -4,6 +4,9 @@
 
 vecpot is an innovative integration solution designed for co-working SaaS tools, supercharged with an NLP chatbot built on cutting-edge Large Language Models (LLM) similar to ChatGPT. Our service not only enhances collaboration within teams but also offers intelligent assistance, making workflows smoother and more efficient.
 
+## Demo
+https://github.com/vecpot/vecpot-supabase-hackathon/assets/11798004/0ddee1d4-ff95-48ae-a33c-c4dca7857729
+
 ## 🔥 Features
 
 - **🔗 Co-working Tools Integration**: Seamlessly connect all your favorite co-working SaaS tools in one place.
