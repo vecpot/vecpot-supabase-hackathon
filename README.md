@@ -1,4 +1,4 @@
-# 🚀 vecpot
+# vecpot
 
 ## 🌐 Overview
 
@@ -7,19 +7,17 @@ vecpot is an innovative integration solution designed for co-working SaaS tools,
 ## 🔥 Features
 
 - **🔗 Co-working Tools Integration**: Seamlessly connect all your favorite co-working SaaS tools in one place.
-    
-    ### Now Supported
-    - **Slack**
-    - **Jira**
-    - **Confluence**
-    - **Notion**
-    - **Google Drive**
-  
+
 - **💬 Advanced NLP Chatbot**: Get real-time assistance, answer queries, automate tasks, and more with our advanced NLP chatbot.
 
 - **🖌️ Easy-to-use Interface**: A user-friendly interface ensures you get the best out of vecpot without any steep learning curve.
 
-- **⚙️ Customization**: Tailor the chatbot and integrations to meet the unique needs of your team or project.
+### Now Supported
+- **Slack**
+- **Jira**
+- **Confluence**
+- **Notion**
+- **Google Drive**
 
 
 ## 🚀 Getting Started
