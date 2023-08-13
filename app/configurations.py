@@ -4,7 +4,8 @@ from pathlib import Path
 from pydantic import BaseSettings
 
 class PathConfigs(BaseSettings):
-    storage_path = Path(f'/home/{os.getlogin()}/.gerev/storage/')
+    # storage_path = Path(f'/home/{os.getlogin()}/.gerev/storage/')
+    storage_path = Path('/opt/storage/')
     sqlite_tasks_path = storage_path / 'tasks.sqlite3'
     sqlite_indexing_path = storage_path / 'indexing.sqlite3'
     
@@ -25,4 +26,4 @@ class PineconeConfigs(BaseSettings):
     
 class ModelConfigs(BaseSettings):
     openai_api_key = str(os.getenv("OPENAI_API_KEY"))
-    qa_model = "ahotrod/albert_xxlargev1_squad2_512"
+    qa_model = "deepset/tinyroberta-squad2"
